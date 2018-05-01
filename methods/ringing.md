@@ -35,6 +35,7 @@ or
 ## Request body
 
 ### JSON representation
+
 ```json
 {
   "companyId": string,
@@ -47,6 +48,7 @@ or
 ```
 
 ### Fields
+
 | fields | description | example |
 | :---: | --- | :---: |
 | companyId | **string**<br><br>Where the domain does not point to a specific company, this can be specified here (name or reference)<br><br>Optional. | ABC Taxis or 1645780 |
