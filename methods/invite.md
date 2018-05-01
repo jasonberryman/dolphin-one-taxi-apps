@@ -41,4 +41,4 @@ or
 
 
 ## Response body
-if successful, the response body contains an instance of [inviteSnapshot](../resources/inviteSnapshot.md)
+if successful, the response body contains an instance of [InviteSnapshot](../resources/InviteSnapshot.md)
