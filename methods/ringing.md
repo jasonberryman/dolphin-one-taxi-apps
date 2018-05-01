@@ -39,7 +39,7 @@ or
 {
   "companyId": string,
   "phoneNumber": string,
-  "queueId: string,
+  "queueId": string,
   "queueType": string,
   "agentId": string,
   "callId": string
