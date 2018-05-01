@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Dolphin ONE Taxi Apps - Calll integration guide
+description: A guide for taxi dispatch system developers to integrate with the Calll telephone system.
+logo: calll.png
