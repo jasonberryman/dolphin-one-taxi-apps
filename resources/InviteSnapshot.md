@@ -1,4 +1,4 @@
-# Resource: inviteSnapshot
+# Resource: InviteSnapshot
 
 An invite document
 
